@@ -1,1 +1,1 @@
-# DCIT_205_IA
+# Website for department of computer science
